@@ -1,0 +1,6 @@
+pygame>=2.5.0
+numpy>=1.24.0
+torch>=2.0.0
+PyQt6>=6.5.0
+PyQt6-Qt6>=6.5.0
+pyqtgraph>=0.13.0

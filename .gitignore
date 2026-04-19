@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+.specstory/
+.vscode/
+
+# Trained weights (keep models/ dir via .gitkeep)
+models/*.pt
